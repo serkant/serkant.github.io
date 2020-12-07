@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/paper2
 excerpt: 'R&R at the Journal of Politics'
 date: 2020-11-18
-paperurl: 'https://www.nowpublishers.com/article/Details/PIP-0021'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3581761'
 ---
 
 Denem deneeme

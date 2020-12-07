@@ -2,7 +2,12 @@
 title: "Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics"
 collection: publications
 permalink: /research/paper1
-excerpt: 'Featured on [Independent Türkçe](https://www.indyturk.com/node/279981/haber/türkiye’nin-koronavirüs-verileri-benford-yasası-ve-uzmanlar-ne-diyor-rakamlar#.X8Znad4nzEZ.twitter)'
+excerpt: 'Featured on [Independent Türkçe](https://www.indyturk.com/node/279981/haber/türkiye’nin-koronavirüs-verileri-benford-yasası-ve-uzmanlar-ne-diyor-rakamlar#.X8Znad4nzEZ.twitter)
+
+
+Deneme deneme deneem 
+'
+
 date: 2020-11-18
 venue: 'Journal of Political Institutions and Political Economy'
 paperurl: 'https://www.nowpublishers.com/article/Details/PIP-0021'

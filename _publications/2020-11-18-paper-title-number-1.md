@@ -2,7 +2,10 @@
 title: "Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics"
 collection: publications
 permalink: /research/paper1
-excerpt: 'Featured on [Independent Türkçe](https://www.indyturk.com/node/279981/haber/türkiye’nin-koronavirüs-verileri-benford-yasası-ve-uzmanlar-ne-diyor-rakamlar#.X8Znad4nzEZ.twitter)
+excerpt: 'joint work with [Aslı Cansunar](https://www.aslicansunar.com) and [Gözde Çörekçioğlu](https://www.gozdecorekcioglu.com) 
+
+
+Featured on [Independent Türkçe](https://www.indyturk.com/node/279981/haber/türkiye’nin-koronavirüs-verileri-benford-yasası-ve-uzmanlar-ne-diyor-rakamlar#.X8Znad4nzEZ.twitter)
 
 
 Deneme deneme deneem 

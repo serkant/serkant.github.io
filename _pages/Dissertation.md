@@ -1,13 +1,6 @@
 ---
 permalink: /Dissertation/
-title: "Dissertation"
+title: "Dissertation Project"
 ---
 
-
-## Political Media Capture
-While some governments use sticks, such as censorship, regulatory agency, or legal fines, others use carrots such as state constracts or preferential state advertising to capture the media. The previous works focus either on sticks or carrots, but they do not attempt to explain the variation we observe. Building on the insights of the previous literature, I set up a formal model of political media capture and explore the conditions under which a specific media capture is more likely.
-
-## State Contracts and Political Media Capture
-
-
-## Ownership and Media Bias
+In my dissertation, I aim to answer the following questions: 'how can we explain the variation we see in political media capture strategies?', 'what are the effects of media capture strategies on pro-government coverage?', and 'how does ownership characteristics and structure determine media bias?'. I use formal modelling and big data to answer these questions.

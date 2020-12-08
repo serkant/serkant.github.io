@@ -9,7 +9,6 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 
 
 Featured on [Independent Türkçe](https://www.indyturk.com/node/279981/haber/türkiye’nin-koronavirüs-verileri-benford-yasası-ve-uzmanlar-ne-diyor-rakamlar#.X8Znad4nzEZ.twitter)
-
 '
 
 date: 2020-11-18

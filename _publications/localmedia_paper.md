@@ -1,5 +1,5 @@
 ---
-title: "Local Media Business Organizations and media bias"
+title: "Local Media Business Organizations and Media Bias"
 collection: research
 permalink: /research/localmedia
 excerpt: "*Work in Progress*

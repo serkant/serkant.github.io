@@ -9,6 +9,5 @@ Environmental issues have gained saliency in Turkish politics over the last deca
 '
 
 date: 2020-06-30
-venue: 'Under Review'
 ---
 

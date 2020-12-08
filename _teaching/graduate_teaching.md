@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/
+permalink: /teaching/graduate
 author_profile: true
 title: 'Graduate Teaching Assistant'
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics"
-collection: publications
+collection: research
 permalink: /research/paper1
 excerpt: '(with [Aslı Cansunar](https://www.aslicansunar.com) and [Gözde Çörekçioğlu](https://www.gozdecorekcioglu.com)), *Journal of Political Institutions and Political Economy*, Vol. 1: No. 4, pp 543-557.
 

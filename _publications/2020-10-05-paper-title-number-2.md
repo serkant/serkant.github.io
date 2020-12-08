@@ -1,6 +1,6 @@
 ---
 title: "Out of Sight, Out of Mind? Electoral Responses to Proximity of Healthcare"
-collection: publications
+collection: research
 permalink: /research/paper2
 excerpt: '(with [Aslı Cansunar](https://www.aslicansunar.com) and [Gözde Çörekçioğlu](https://www.gozdecorekcioglu.com)), *R&R at the Journal of Politics*
 

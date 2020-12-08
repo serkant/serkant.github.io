@@ -9,7 +9,6 @@ Existing work on electoral returns to public goods provision has investigated ch
 '
 
 date: 2020-07-03
-venue: 'R&R at the Journal of Politics'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3581761'
 ---
 

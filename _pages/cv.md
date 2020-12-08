@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Political Science, Duke University, 2016-
+  * Field: Political Economy, Political Methodology
+* M.A. in Political Science, Duke University, 2016-2019
+* M.A. in Economics, Boğaziçi University, 2014-2016
+* B.A. in Economics, Boğaziçi University, 2009-2014
+* B.A. in Political Science & International Relations, Boğaziçi University, 2009-2014
+* Exchange Student, Science Po Paris, 2013
 
 Work experience
 ======

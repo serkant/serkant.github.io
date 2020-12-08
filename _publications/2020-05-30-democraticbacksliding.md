@@ -1,25 +1,14 @@
 ---
-title: "Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats"
+title: "Politics and Tree Cover Loss: Evidence from High-Resolution Satellite Data"
 collection: research
-permalink: /research/democraticbacksliding
-excerpt: "*Working Paper*
+permalink: /research/environment
+excerpt: '*Under Review*
 
-In recent years, the world has seen a wave of democratically elected leaders move
-their countries in undemocratic directions. Why do people support leaders who remove
-checks and balances? I argue that aspiring autocrats are more likely to gain popular
-support when they present these institutions as obstacles to getting things done. In
-doing so, aspiring autocrats exploit a critical tension between the possibility of gridlock
-and the abuse of power, which is inherent in democratic institutions. An original
-survey experiment conducted in Turkey supports these arguments. More interestingly,
-respondents perceive the aspiring autocrats' gridlock justication as a pro-democratic
-attempt to remove the obstacles to a policy-responsive regime. These results show that
-democratic backsliding is strategic, and its leaders exploit a tension in democracy that
-makes it harder for citizens to perceive the threat they face.
 
-"
+Environmental issues have gained saliency in Turkish politics over the last decade, especially after the Gezi Park demonstrations. However, no systemic empirical evidence exists to inform us about the relationship between politics and tree cover in Turkey. Although Turkey witnessed significant tree loss over the last decades, we do not know how much of this damage is attributed to politics. Using high-resolution satellite data, this paper provides the first empirical relationship between local politics and tree loss. The results show that districts with Justice and Development Party (AKP) mayors have higher tree loss by around a combined area of 62 football pitches on average. These results imply that local governments can have a substantial impact on the environment despite their limited effect in the design of environmental policies.
+'
 
-date: 2020-05-30
-venue: 'Working Paper'
+date: 2020-06-30
+venue: 'Under Review'
 ---
 
-aaaa

@@ -1,5 +1,5 @@
 ---
-permalink: /dissertation/
+permalink: /Dissertation/
 title: "Dissertation Project"
 ---
 

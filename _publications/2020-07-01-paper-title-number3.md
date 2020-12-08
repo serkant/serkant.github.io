@@ -1,14 +1,16 @@
 ---
-title: "Politics and Tree Cover Loss: Evidence from High-Resolution Satellite Data"
+title: "Out of Sight, Out of Mind? Electoral Responses to Proximity of Healthcare"
 collection: publications
-permalink: /research/paper3
-excerpt: 'Under Review'
+permalink: /research/paper2
+excerpt: '(with [Aslı Cansunar](https://www.aslicansunar.com) and [Gözde Çörekçioğlu](https://www.gozdecorekcioglu.com)), *R&R at the Journal of Politics*
 
 
-Environmental issues have gained saliency in Turkish politics over the last decade, especially after the Gezi Park demonstrations. However, no systemic empirical evidence exists to inform us about the relationship between politics and tree cover in Turkey. Although Turkey witnessed significant tree loss over the last decades, we do not know how much of this damage is attributed to politics. Using high-resolution satellite data, this paper provides the first empirical relationship between local politics and tree loss. The results show that districts with Justice and Development Party (AKP) mayors have higher tree loss by around a combined area of 62 football pitches on average. These results imply that local governments can have a substantial impact on the environment despite their limited effect in the design of environmental policies.'
+Existing work on electoral returns to public goods provision has investigated changes in government expenditure aggregated at levels that do not have any bearing on geographical access. In this paper, we focus on the political economy of the catchment areas of public services. Rather than investigating the binary relationship between public goods provision and electoral returns within formally drawn borders, we ask whether decreases in walking time to a public service attract votes for the incumbent. Leveraging the Family Medicine Reform in Turkey, which gave rise to an exogenous variation in voter proximity to the free health clinics in Istanbul, we find that communities whose walking distance to the closest clinic decreased voted significantly more for the AKP, the incumbent, between 2011 and 2015. We also show that poorer and healthcare dependent communities were more responsive to improvements in spatial accessibility to the local clinics.
 
-date: 2020-07-01
-venue: 'Under Review'
+'
+
+date: 2020-07-03
+venue: 'R&R at the Journal of Politics'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3581761'
 ---
 

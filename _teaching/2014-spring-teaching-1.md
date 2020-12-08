@@ -2,16 +2,9 @@
 layout: archive
 permalink: /teaching/
 author_profile: true
-title: 'hebele hubele'
+title: 'Graduate Teaching Assistant'
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+*   **Duke University**:
+    * Politics of Authoritarian Regimes
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

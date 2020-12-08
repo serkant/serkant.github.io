@@ -7,5 +7,7 @@ excerpt: "(with [Scott deMarchi](http://sdemarchi.weebly.com), [Jeremy Springman
 The third wave of autocratization has brought renewed attention to the study of regime type. This attention has been accompanied by a proliferation of new and more nuanced measures of democratic characteristics. We combine recent approaches using machine learning for dimensionality reduction with new democracy measures to investigate the latent dimensions of democracy. Using data from eighteen distinct democracy indices, we explore variation in theoretically-motivated dimensions of democracy across historical periods.
 "
 venue: 'Working Paper'
+date: 2020-04-25
+
 ---
 

@@ -1,14 +1,14 @@
 ---
 layout: archive
-permalink: /teaching/graduate
+permalink: /teaching?
 author_profile: true
-title: 'Graduate Teaching Assistant'
+title: 'Teaching Assistant'
 ---
 
-*   **Duke University**:
+*   **Duke University, Graduate Teaching Assistant**:
     * Politics of Authoritarian Regimes
 
-* **Boğaziçi University**:
+* **Boğaziçi University, Graduate Teaching Assistant**:
     * Microeconomics
     * Game Theoretical Models of Political Economy
     * Public Finance
@@ -17,6 +17,10 @@ title: 'Graduate Teaching Assistant'
     * Turkish Economy
     * Growth and Development
     * Topics in History of Economic Thought
+
+
+* **Boğaziçi University, Undergraduate Teaching Assistant**:
+    * Microeconomics
     
 
 

@@ -9,5 +9,4 @@ Until the modernizing reforms of the 19th century, the Islamic waqf played a mas
 
 "
 date: 2020-05-25
-paperurl: '/files/waqfpaper_websitecopy.pdf'
 ---

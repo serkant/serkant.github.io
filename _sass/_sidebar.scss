@@ -45,7 +45,7 @@
     }
   
     img {
-      width: 100%;
+      width: 120%;
     }
   }
   
@@ -74,20 +74,20 @@
     vertical-align: top;
     width: 350px;
     // set width only, for non-square avatars
-    //height: 100px;
+    height: 100px;
   
     @include breakpoint($large) {
       display: block;
-      width: auto;
-      height: auto;
+      width: 170px;
+      height: 180px;
     }
   
     img {
       max-width: 500px;
-      border-radius: 50%;
+      border-radius: 100%;
   
       @include breakpoint($large) {
-        padding: 5px;
+        padding: 1px;
         border: 1px solid $border-color;
       }
     }
@@ -96,14 +96,14 @@
   .author__content {
     display: table-cell;
     vertical-align: top;
-    padding-left: 15px;
-    padding-right: 25px;
+    padding-left: 150px;
+    padding-right: 125px;
     line-height: 1;
   
     @include breakpoint($large) {
       display: block;
       width: 100%;
-      padding-left: 0;
+      padding-left: 10%;
       padding-right: 0;
     }
   }
@@ -161,9 +161,9 @@
   .author__urls {
     display: none;
     position: absolute;
-    right: 0;
+    right: 3px;
     margin-top: 15px;
-    padding: 10px;
+    padding: 15%;
     list-style-type: none;
     border: 1px solid $border-color;
     border-radius: $border-radius;

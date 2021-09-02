@@ -1,5 +1,5 @@
 ---
-title: "Indirect favor exchanges and pro-government slant"
+title: "Favor exchanges and pro-government media bias"
 collection: research
 permalink: /research/waqf
 excerpt: "*Working Paper*

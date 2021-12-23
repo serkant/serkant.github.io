@@ -13,5 +13,6 @@ One crucial feature of the ongoing global wave of democratic backsliding is that
 '
 
 date: 2020-06-30
+paperurl: 'https://mlp.trinity.duke.edu/assets/Tanzania_ML4P.pdf'
 ---
 

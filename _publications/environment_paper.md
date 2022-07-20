@@ -10,6 +10,6 @@ During the last decade, environmental issues have gained saliency in Turkish pol
 '
 
 date: 2020-07-02
-paperurl: '/files/environ_websitecopy.docx'
+paperurl: '/files/environ_websitecopy.pdf'
 ---
 

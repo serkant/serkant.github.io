@@ -10,6 +10,7 @@ excerpt: '
 
 - Election and Electoral Competition: how do they affect rent distribution through state contracts?" (joint with [Mustafa Kaba](https://mustafakaba.github.io) and [Murat Koyuncu](https://academics.boun.edu.tr/mkoyuncu/))
 
+
 '
 
 

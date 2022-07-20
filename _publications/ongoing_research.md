@@ -2,7 +2,7 @@
 title: "Work in Progress"
 collection: research
 permalink: /research/localmedia
-excerpt: '*Ongoing Project* 
+excerpt: '
 
 - Mixed Regimes and Economic Crises: Information Manipulation Strategies in Media Outlets
 

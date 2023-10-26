@@ -1,22 +1,22 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: research/
 author_profile: true
 ---
 
 
 ## Publications 
 
-<span style="color: Black; font-size: 14px;">
+<ol style="color: Black; font-size: 14px;">
     Correlates of deforestation in Turkey: evidence from high-resolution satellite data, 
     <i>New Perspectives on Turkey</i>, Volume 68, May 2023, pp. 30 - 48
     <button onclick="window.location.href='https://www.cambridge.org/core/journals/new-perspectives-on-turkey/article/correlates-of-deforestation-in-turkey-evidence-from-highresolution-satellite-data/F6DF2EBAFC43D619E99B7E79BF82475C'" class="btn--research">Download here</button>
-</span>
+    
 <p style="font-size: 14px; text-align: justify; width: 75%;">
     During the last decade, environmental issues have gained saliency in Turkish politics, especially after the 2013 Gezi Park demonstrations. This article is on the relationship between politics and deforestation in Turkey. It combines possible major drivers—political, economic, and climatic—of deforestation in Turkey with high-resolution satellite data on deforestation to conduct a systemic empirical analysis. The results show that districts in which Justice and Development Party mayors are in power have higher deforestation. The effect is around an average combined area of forty-two football fields in a given district. The article also shows that increased mining activities and newly built hydropower plants positively correlate with deforestation.
 </p>
-
+</ol>
 
 
 

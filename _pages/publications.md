@@ -13,9 +13,9 @@ author_profile: true
     <b> Correlates of deforestation in Turkey: evidence from high-resolution satellite data </b>
     <br> 
     <i>New Perspectives on Turkey</i>, Volume 68, May 2023, pp. 30 - 48
-    <button onclick="window.location.href='https://www.cambridge.org/core/journals/new-perspectives-on-turkey/article/correlates-of-deforestation-in-turkey-evidence-from-highresolution-satellite-data/F6DF2EBAFC43D619E99B7E79BF82475C'" class="btn--research">Download here</button>
+    <button onclick="myFunction('abstract1')", onclick="window.location.href='https://www.cambridge.org/core/journals/new-perspectives-on-turkey/article/correlates-of-deforestation-in-turkey-evidence-from-highresolution-satellite-data/F6DF2EBAFC43D619E99B7E79BF82475C'" class="btn--research">Download here</button>
 </span>
-<p style="font-size: 14px; text-align: justify; width: 75%">
+<p id = 'abstract1' style="font-size: 14px; text-align: justify; width: 75%">
     During the last decade, environmental issues have gained saliency in Turkish politics, especially after the 2013 Gezi Park demonstrations. This article is on the relationship between politics and deforestation in Turkey. It combines possible major drivers—political, economic, and climatic—of deforestation in Turkey with high-resolution satellite data on deforestation to conduct a systemic empirical analysis. The results show that districts in which Justice and Development Party mayors are in power have higher deforestation. The effect is around an average combined area of forty-two football fields in a given district. The article also shows that increased mining activities and newly built hydropower plants positively correlate with deforestation.
 </p>
 
@@ -145,3 +145,18 @@ Forums</b> (with <a href="https://diego-romero.com">Diego Romero</a>, <a href="h
     <br>
   <button onclick="window.location.href='https://pdf.usaid.gov/pdf_docs/PA02114K.pdf'" class="btn--research">Download here</button>
   </span>
+
+
+<script>
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+
+

@@ -10,18 +10,18 @@ author_profile: true
 
 
 <span style="color: Black; font-size: 14px;">
-    Correlates of deforestation in Turkey: evidence from high-resolution satellite data
+    <b> Correlates of deforestation in Turkey: evidence from high-resolution satellite data </b>
     <br> 
     <i>New Perspectives on Turkey</i>, Volume 68, May 2023, pp. 30 - 48
     <button onclick="window.location.href='https://www.cambridge.org/core/journals/new-perspectives-on-turkey/article/correlates-of-deforestation-in-turkey-evidence-from-highresolution-satellite-data/F6DF2EBAFC43D619E99B7E79BF82475C'" class="btn--research">Download here</button>
 </span>
-<p style="font-size: 14px; text-align: justify; width: 75%; margin-left: 40px;">
+<p style="font-size: 14px; text-align: justify; width: 75%">
     During the last decade, environmental issues have gained saliency in Turkish politics, especially after the 2013 Gezi Park demonstrations. This article is on the relationship between politics and deforestation in Turkey. It combines possible major drivers—political, economic, and climatic—of deforestation in Turkey with high-resolution satellite data on deforestation to conduct a systemic empirical analysis. The results show that districts in which Justice and Development Party mayors are in power have higher deforestation. The effect is around an average combined area of forty-two football fields in a given district. The article also shows that increased mining activities and newly built hydropower plants positively correlate with deforestation.
 </p>
 
 
 <span style="color: Black; font-size: 14px;">
-    Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
+    <b> Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
     <i>The Journal of Politics</i>, 85 (2), 667-683 <button onclick="window.location.href='https://www.journals.uchicago.edu/doi/abs/10.1086/722040?journalCode=jop'" class="btn--research">Download here</button>
   </span>
@@ -32,7 +32,7 @@ Do voters reward incumbents for the provision of public services? In this articl
 
 
 <span style="color: Black; font-size: 14px;">
-    Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
+    <b>Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
     <i>Journal of Political Institutions and Political Economy</i>, Vol. 1: No. 4, pp 543-557 <button onclick="window.location.href='https://www.nowpublishers.com/article/Details/PIP-0021'" class="btn--research">Download here</button>
   </span>
@@ -47,7 +47,7 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 
 
 <span style="color: Black; font-size: 14px;">
-    From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers  (with <a href="https://mustafakaba.github.io/research/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>)
+    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/research/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>)
     <br>
     <button onclick="window.location.href='https://mustafakaba.github.io/files/JMP_draft.pdf'" class="btn--research">Download here</button>
   </span>
@@ -58,7 +58,7 @@ This paper investigates the impact of authoritarian takeovers on the rule of law
 
 
 <span style="color: Black; font-size: 14px;">
-    Favor exchanges and pro-government media bias 
+    <b>Favor exchanges and pro-government media bias </b>
     <br>
     Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>
@@ -68,7 +68,7 @@ This paper investigates the impact of authoritarian takeovers on the rule of law
 </p>
 
 <span style="color: Black; font-size: 14px;">
-  Mixed regimes and economic crises: information manipulation strategies in media outlets
+  <b>Mixed regimes and economic crises: information manipulation strategies in media outlets</b>
     <br>
     Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>
@@ -79,11 +79,22 @@ In recent decades, information manipulation in media has been the defining chara
 
 
 <span style="color: Black; font-size: 14px;">
- Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats
+ <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b>
     <br>
     Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>
 
 <p style="font-size: 14px; text-align: justify; width: 75%;">
 Recently, the world saw a wave of elected leaders attack democracy. Why do people support leaders who remove checks and balances? I argue that aspiring autocrats gain more popular support when they present these institutions as obstacles to getting things done. In doing so, they exploit a critical tension between the possibility of gridlock and the abuse of power, which is inherent in democratic institutions. Using cross-national data and leveraging an original survey experiment from Turkey, I show that effective checks and balances decrease democracy satisfaction and that aspiring autocrats gain more popular support when they present these institutions as obstacles. More interestingly, respondents perceive the aspiring autocrats' gridlock justification to dismantle checks and balances as a pro-democratic attempt to remove the obstacles to a policy-responsive regime. These results show that aspiring autocrats exploit a tension in democracies that makes it harder for citizens to perceive the threat they face.
+</p>
+
+
+<span style="color: Black; font-size: 14px;">
+    <b>The Islamic Waqf: Instrument of Unequal Security, Worldly and Otherworldly </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>)
+    <br>
+    <button onclick="window.location.href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060'" class="btn--research">Download here</button>
+  </span>
+
+<p style="font-size: 14px; text-align: justify; width: 75%;">
+Until the modernizing reforms of the 19th century, the Islamic waqf played a massive role in the economy of the Middle East, the Balkans, and North Africa. Formally, it was a trust founded by an individual; income from the endowed assets financed designated services in perpetuity. The largest waqfs were established by members of high officials of the ruling dynasty to provide social services now supplied by municipalities or charitable corporations. These Islamic ''state waqfs'' have been the focus of case studies that make the waqf seem mainly a supplier of public goods. Using an original data set consisting of Istanbul waqf deeds from 1457-1923, this paper explores the functions of Islamic ''regular waqfs''—waqfs founded either by elites below the top echelon or by commoners. The typical regular waqf had a relatively modest endowment and architectural footprint. In a setting characterized by weak property rights and legal system that favored males, Muslims, and state officials, it was established principally to provide material security to its founder and his or her descendants. Providing public goods was not among its major functions; neither was assisting the poor. Founders belonging to a disadvantaged group, including women, were especially likely to prioritize wealth sheltering. Regular waqfs thus served to perpetuate prevailing worldly inequalities through material security to the wealthy. They also aimed to create inequalities in the hereafter. Their major functions included financing prayers to expiate the sins of founders and their families.
 </p>

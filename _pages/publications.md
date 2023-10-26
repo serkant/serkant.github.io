@@ -47,7 +47,7 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 
 
 <span style="color: Black; font-size: 14px;">
-    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/research/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>)
+    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>)
     <br>
     <button onclick="window.location.href='https://mustafakaba.github.io/files/JMP_draft.pdf'" class="btn--research">Download here</button>
   </span>
@@ -90,6 +90,17 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 
 
 <span style="color: Black; font-size: 14px;">
+    <b>Democratic Backsliding and Media Responses to Government Repression of Journalism: Machine Learning Evidence from Tanzania</b> (with <a href="https://diego-romero.com">Diego Romero</a> and <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>)
+    <br>
+    <button onclick="window.location.href='https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2022/07/Tanzania_ML4P.pdf'" class="btn--research">Download here</button>
+  </span>
+
+<p style="font-size: 14px; text-align: justify; width: 75%;">
+One crucial feature of the ongoing global wave of democratic backsliding is that aspiring autocrats seek to influence the media, oftentimes through legal restrictions on the press and social media. Yet little research has examined how formal and social media respond to those legal restrictions targeting the free flow of information. We develop an original argument linking key characteristics of media sources to the regulatory environment and examine how the content and sentiment of their coverage responds to restrictive media laws. We test our claims using an enormous corpus of electronic media in Tanzania and employ two state-of- the-art neural network models to classify the topics and sentiment of news stories. We then estimate diff-in-diff models exploiting a significant legal change that targeted media houses. We find that critical news sources censor the tone of their coverage, even as they continue to cover the same issues; we also find that international news sources are unable to fill the hole left by a critical domestic press. The paper sheds light on the conditions under which the press can be resilient in the face of legal threats.
+</p>
+
+
+<span style="color: Black; font-size: 14px;">
     <b>The Islamic Waqf: Instrument of Unequal Security, Worldly and Otherworldly </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>)
     <br>
     <button onclick="window.location.href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060'" class="btn--research">Download here</button>
@@ -98,3 +109,17 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 <p style="font-size: 14px; text-align: justify; width: 75%;">
 Until the modernizing reforms of the 19th century, the Islamic waqf played a massive role in the economy of the Middle East, the Balkans, and North Africa. Formally, it was a trust founded by an individual; income from the endowed assets financed designated services in perpetuity. The largest waqfs were established by members of high officials of the ruling dynasty to provide social services now supplied by municipalities or charitable corporations. These Islamic ''state waqfs'' have been the focus of case studies that make the waqf seem mainly a supplier of public goods. Using an original data set consisting of Istanbul waqf deeds from 1457-1923, this paper explores the functions of Islamic ''regular waqfs''—waqfs founded either by elites below the top echelon or by commoners. The typical regular waqf had a relatively modest endowment and architectural footprint. In a setting characterized by weak property rights and legal system that favored males, Muslims, and state officials, it was established principally to provide material security to its founder and his or her descendants. Providing public goods was not among its major functions; neither was assisting the poor. Founders belonging to a disadvantaged group, including women, were especially likely to prioritize wealth sheltering. Regular waqfs thus served to perpetuate prevailing worldly inequalities through material security to the wealthy. They also aimed to create inequalities in the hereafter. Their major functions included financing prayers to expiate the sins of founders and their families.
 </p>
+
+
+
+<span style="color: Black; font-size: 14px;">
+    <b>Paying the dues? Access, Congestion and Bribery</b> (with <a href="https://diego-romero.com">Diego Romero</a> and <a href="https://marcomorucci.com/bio/">Marco Morucci</a>)
+    <br>
+   Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
+  </span>
+
+<p style="font-size: 14px; text-align: justify; width: 75%;">
+Bribery in public service delivery, regardless of its welfare consequences, is a fact of life for citizens in many developing countries. The existing literature on bribery and corruption has argued that citizens with low access to public services are more likely to pay bribes to make up for their lack of access. We argue that sometimes the opposite might be true, with individuals that have better access to public services being more likely to engage in corrupt exchanges with public officials, both because they are socially closer to the public officials, and because their baseline cost for accessing the public service is lower. Using administrative and survey data from Guatemala, we show that individuals that have easier access to public services are more likely to engage in bribery in several ways, as well as more willing to pay higher bribes, and less likely to report public officials for corrupt behavior. Our results imply that policy efforts to improve access to public services in developing countries might have the unexpected negative effect of increasing corruption if they are not accompanied by civil service reform. 
+</p>
+
+

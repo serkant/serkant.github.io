@@ -53,7 +53,7 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
   </span>
 
 <p style="font-size: 14px; text-align: justify; width: 75%;">
-This paper investigates the impact of authoritarian takeovers on the rule of law and economic efficiency in local jurisdictions. Authoritarian takeovers refer to the replacement of elected offi- cials with centrally appointed representatives. Using the universe of state contracts in Turkey and a staggered Difference-in-Differences (DiD) design, we document that central takeovers de- teriorate the rule of law and cause substantial waste of taxpayers’ money by reducing economic efficiency in public procurement. Specifically, centrally appointed mayors use competitive auc- tions 33 pp less and instead exploit legal provisions 23 pp more often than elected mayors. Such malpractices inflate contract prices by 24% and reduce value for money by 40%. These results are robust to a variety of tests, including a Regression Discontinuity (RD) estimation. Probing the underlying mechanisms, we find that the removal of local accountability is the key driver of these effects. By contrast, we do not find evidence favoring the coordination benefits from a more centralized governance or politician discretion leading to quality improvement in procurement. We conclude, by altering incentive structures and introducing a moral hazard problem in local governance, central takeovers are likely to cause important loss of social welfare.
+This paper investigates the impact of authoritarian takeovers on the rule of law and economic efficiency in local jurisdictions. Authoritarian takeovers refer to the replacement of elected offi- cials with centrally appointed representatives. Using the universe of state contracts in Turkey and a staggered Difference-in-Differences (DiD) design, we document that central takeovers deteriorate the rule of law and cause substantial waste of taxpayers’ money by reducing economic efficiency in public procurement. Specifically, centrally appointed mayors use competitive auc- tions 33 pp less and instead exploit legal provisions 23 pp more often than elected mayors. Such malpractices inflate contract prices by 24% and reduce value for money by 40%. These results are robust to a variety of tests, including a Regression Discontinuity (RD) estimation. Probing the underlying mechanisms, we find that the removal of local accountability is the key driver of these effects. By contrast, we do not find evidence favoring the coordination benefits from a more centralized governance or politician discretion leading to quality improvement in procurement. We conclude, by altering incentive structures and introducing a moral hazard problem in local governance, central takeovers are likely to cause important loss of social welfare.
 </p>
 
 
@@ -121,5 +121,23 @@ Until the modernizing reforms of the 19th century, the Islamic waqf played a mas
 <p style="font-size: 14px; text-align: justify; width: 75%;">
 Bribery in public service delivery, regardless of its welfare consequences, is a fact of life for citizens in many developing countries. The existing literature on bribery and corruption has argued that citizens with low access to public services are more likely to pay bribes to make up for their lack of access. We argue that sometimes the opposite might be true, with individuals that have better access to public services being more likely to engage in corrupt exchanges with public officials, both because they are socially closer to the public officials, and because their baseline cost for accessing the public service is lower. Using administrative and survey data from Guatemala, we show that individuals that have easier access to public services are more likely to engage in bribery in several ways, as well as more willing to pay higher bribes, and less likely to report public officials for corrupt behavior. Our results imply that policy efforts to improve access to public services in developing countries might have the unexpected negative effect of increasing corruption if they are not accompanied by civil service reform. 
 </p>
+
+
+## Policy reports and briefs
+
+<span style="color: Black; font-size: 14px;">
+    <b>Reporting on Civic Space: Differences in Coverage Between National and International Sources</b> (with <a href="https://diego-romero.com">Diego Romero</a>, <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>, and Mike Sun)
+    <br>
+  <button onclick="window.location.href='https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2022/07/mlp_intl_vs_local.pdf'" class="btn--research">Download here</button>
+  </span>
+
+
+<span style="color: Black; font-size: 14px;">
+    <b>The Impact of Legal Repression on Citizen Online Behavior: Evidence from Tanzania’s Jamii
+Forums</b> (with <a href="https://diego-romero.com">Diego Romero</a>, <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>, and Nuzulack Dausen)
+    <br>
+  <button onclick="window.location.href='https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2023/08/Jamii_Forum.pdf'" class="btn--research">Download here</button>
+  </span>
+
 
 

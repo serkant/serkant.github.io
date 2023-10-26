@@ -7,9 +7,9 @@ title: 'Teaching'
 
 *   **Sabancı University, Instructor**:
     * Research Methods for Political Science and International Relations (undergraduate) (Fall 2022, Fall 2023). <button onclick="window.location.href='/files/PSIR_311_Fall2023_syllabus_v3.pdf'" class="btn--research">Syllabus</button>
-    * Advance Research Methods and Data Analysis in Political Science (graduate) (Spring 2023). <button onclick="window.location.href='/files/POLS_537_Spring2022_Syllabus_v3'" class="btn--research">Syllabus</button>
+    * Advance Research Methods and Data Analysis in Political Science (graduate) (Spring 2023). <button onclick="window.location.href='/files/POLS_537_Spring2022_Syllabus_v3.pdf'" class="btn--research">Syllabus</button>
 
-    * Political Economy (graduate/undergraduate) (Spring 2023, Fall 2023). <button onclick="window.location.href='/files/Pols580_Fall2023_syllabus_v2'" class="btn--research">Syllabus</button>
+    * Political Economy (graduate/undergraduate) (Spring 2023, Fall 2023). <button onclick="window.location.href='/files/Pols580_Fall2023_syllabus_v2.pdf'" class="btn--research">Syllabus</button>
 
 
 *   **Duke University, Graduate Teaching Assistant**:

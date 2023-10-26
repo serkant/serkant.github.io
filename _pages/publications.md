@@ -69,7 +69,7 @@ This paper investigates the impact of authoritarian takeovers on the rule of law
 <span style="color: Black; font-size: 14px;">
   <b>Mixed regimes and economic crises: information manipulation strategies in media outlets</b>
     <br>
-    <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
+    <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>
 
 <p id = 'abstract6' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
@@ -80,7 +80,7 @@ In recent decades, information manipulation in media has been the defining chara
 <span style="color: Black; font-size: 14px;">
  <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b>
     <br>
-    <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
+    <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) 
   </span>
 
 <p id = 'abstract7' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
@@ -114,9 +114,8 @@ Until the modernizing reforms of the 19th century, the Islamic waqf played a mas
 <span style="color: Black; font-size: 14px;">
     <b>Paying the dues? Access, Congestion and Bribery</b> (with <a href="https://diego-romero.com">Diego Romero</a> and <a href="https://marcomorucci.com/bio/">Marco Morucci</a>)
     <br>
-    <button onclick="myFunction('abstract10')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
-
-  </span>
+    <button onclick="myFunction('abstract10')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) 
+</span>
 
 <p id = 'abstract10' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
 Bribery in public service delivery, regardless of its welfare consequences, is a fact of life for citizens in many developing countries. The existing literature on bribery and corruption has argued that citizens with low access to public services are more likely to pay bribes to make up for their lack of access. We argue that sometimes the opposite might be true, with individuals that have better access to public services being more likely to engage in corrupt exchanges with public officials, both because they are socially closer to the public officials, and because their baseline cost for accessing the public service is lower. Using administrative and survey data from Guatemala, we show that individuals that have easier access to public services are more likely to engage in bribery in several ways, as well as more willing to pay higher bribes, and less likely to report public officials for corrupt behavior. Our results imply that policy efforts to improve access to public services in developing countries might have the unexpected negative effect of increasing corruption if they are not accompanied by civil service reform. 

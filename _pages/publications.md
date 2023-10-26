@@ -24,10 +24,10 @@ author_profile: true
 <span style="color: Black; font-size: 14px;">
     <b> Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
-    <i>The Journal of Politics</i>, 85 (2), 667-683 <button onclick="window.location.href='https://www.journals.uchicago.edu/doi/abs/10.1086/722040?journalCode=jop'" class="btn--research">Download here</button>
+    <i>The Journal of Politics</i>, 85 (2), 667-683 <button onclick="myFunction('abstract2')" class="btn--research">Abstract</button> [Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/722040?journalCode=jop){: .btn--research}{:target="_blank"}
   </span>
 
-<p style="font-size: 14px; text-align: justify; width: 75%;">
+<p id = 'abstract2' style="font-size: 14px; text-align: justify; width: 75%;">
 Do voters reward incumbents for the provision of public services? In this article, we study the political economy of catchment areas of public services to answer this question. Rather than examining the binary relationship between health care provision and electoral returns within politically defined borders, we study whether increases in geographic accessibility of health care providers and decreases in congestion in services attract votes for the incumbent. Leveraging a health care reform in Turkey, which substantially impacted the geospatial distribution of public health clinics in Istanbul, we find that decreases in walking time and improvements in congestion levels in the closest clinic from a polling station significantly increase vote share of the AKP, the incumbent party, at that polling station. We also show that poorer communities were more responsive to improvements in spatial accessibility to the local clinics.
 </p>
 
@@ -35,10 +35,10 @@ Do voters reward incumbents for the provision of public services? In this articl
 <span style="color: Black; font-size: 14px;">
     <b>Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
-    <i>Journal of Political Institutions and Political Economy</i>, Vol. 1: No. 4, pp 543-557 <button onclick="window.location.href='https://www.nowpublishers.com/article/Details/PIP-0021'" class="btn--research">Download here</button>
+    <i>Journal of Political Institutions and Political Economy</i>, Vol. 1: No. 4, pp 543-557 <button onclick="myFunction('abstract3')" class="btn--research">Abstract</button> [Paper](https://www.nowpublishers.com/article/Details/PIP-0021){: .btn--research}{:target="_blank"}
   </span>
 
-<p style="font-size: 14px; text-align: justify; width: 75%;">
+<p id = 'abstract3' style="font-size: 14px; text-align: justify; width: 75%;">
 Which countries manipulate COVID-19 statistics? Does the party ideology of local governors affect the probability of data manipulation at subnational levels? How does democratic quality affect statistical transparency during the pandemic? In this article, we apply election fraud detection methods — various digit-based tests that exploit human biases in generating random numbers — to the daily announced official numbers of new and cumulative coronavirus infections. First, we use digit-based tests to identify countries that likely manipulated their pandemic statistics. We then move on to examine the empirical relationship between democratic quality and data transparency. We find suggestive evidence that data manipulation occurred in China, the United States, Russia, and Turkey. Second, we show that non-democracies, as well as countries without free and fair elections, are more likely to release data that display signs of statistical malpractice.
 </p>
 
@@ -50,10 +50,10 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 <span style="color: Black; font-size: 14px;">
     <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>)
     <br>
-    <button onclick="window.location.href='https://mustafakaba.github.io/files/JMP_draft.pdf'" class="btn--research">Download here</button>
+    <button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Paper](https://mustafakaba.github.io/files/JMP_draft.pdf){: .btn--research}{:target="_blank"}
   </span>
 
-<p style="font-size: 14px; text-align: justify; width: 75%;">
+<p id = 'abstract4' style="font-size: 14px; text-align: justify; width: 75%;">
 This paper investigates the impact of authoritarian takeovers on the rule of law and economic efficiency in local jurisdictions. Authoritarian takeovers refer to the replacement of elected offi- cials with centrally appointed representatives. Using the universe of state contracts in Turkey and a staggered Difference-in-Differences (DiD) design, we document that central takeovers deteriorate the rule of law and cause substantial waste of taxpayers’ money by reducing economic efficiency in public procurement. Specifically, centrally appointed mayors use competitive auc- tions 33 pp less and instead exploit legal provisions 23 pp more often than elected mayors. Such malpractices inflate contract prices by 24% and reduce value for money by 40%. These results are robust to a variety of tests, including a Regression Discontinuity (RD) estimation. Probing the underlying mechanisms, we find that the removal of local accountability is the key driver of these effects. By contrast, we do not find evidence favoring the coordination benefits from a more centralized governance or politician discretion leading to quality improvement in procurement. We conclude, by altering incentive structures and introducing a moral hazard problem in local governance, central takeovers are likely to cause important loss of social welfare.
 </p>
 
@@ -61,10 +61,10 @@ This paper investigates the impact of authoritarian takeovers on the rule of law
 <span style="color: Black; font-size: 14px;">
     <b>Favor exchanges and pro-government media bias </b>
     <br>
-    Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
+    <button onclick="myFunction('abstract5')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>
 
-<p style="font-size: 14px; text-align: justify; width: 75%;">
+<p id = 'abstract5' style="font-size: 14px; text-align: justify; width: 75%;">
   A free press is a pillar of democracy, but in our era of democratic backsliding, many aspiring autocrats have undermined media freedom. Extant research has focused on censorship laws and state advertising as tools to capture the media. I argue state contracts in non-media sectors represent an important tool for influencing media coverage. Conglomerates with diverse economic interests increasingly own media outlets. State contracts provide aspiring autocrats with a valuable carrot to incentivize conglomerate-owned media for pro-government coverage. I test this argument by analyzing a vast corpus of newspaper articles from Turkey and exploiting a legal change, which increased the government's discretion over distributing state contracts. Constructing a context-aware bias measure using machine learning and analyzing the universe of all state contracts, I show that conglomerate-owned newspapers are more pro-government than other newspapers. This bias grows with the government's discretion. In return, these conglomerates secure state contracts on favorable terms.
 </p>
 

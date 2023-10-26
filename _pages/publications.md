@@ -5,12 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+*   **Duke University, Graduate Teaching Assistant**:
+    * Politics of Authoritarian Regimes
 
-{% include base_path %}
+* **Boğaziçi University, Graduate Teaching Assistant**:
+    * Microeconomics
+    * Game Theoretical Models of Political Economy
+    * Public Finance
+    * Economics of Industrial Organization
+    * Evolution of Economies and Economics
+    * Turkish Economy
+    * Growth and Development
+    * Topics in History of Economic Thought
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+* **Boğaziçi University, Undergraduate Teaching Assistant**:
+    * Microeconomics
+    

@@ -140,4 +140,8 @@ Forums</b> (with <a href="https://diego-romero.com">Diego Romero</a>, <a href="h
   </span>
 
 
-
+<span style="color: Black; font-size: 14px;">
+    <b>The Impact of Legal Restrictions on the Content and Sentiment of Media Coverage in Tanzania</b> (with <a href="https://diego-romero.com">Diego Romero</a>, <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>)
+    <br>
+  <button onclick="window.location.href='https://pdf.usaid.gov/pdf_docs/PA02114K.pdf'" class="btn--research">Download here</button>
+  </span>

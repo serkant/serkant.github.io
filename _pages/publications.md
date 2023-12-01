@@ -24,7 +24,7 @@ author_profile: true
 <span style="color: Black; font-size: 14px;">
     <b> Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
-    <i>The Journal of Politics</i>, 85 (2), 667-683 
+    <i>Journal of Politics</i>, 85 (2), 667-683 
     <button onclick="myFunction('abstract2')" class="btn--research">Abstract</button> [Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/722040?journalCode=jop){: .btn--research}{:target="_blank"}
   </span>
 <p id = 'abstract2' style="display: none; font-size: 14px; text-align: justify; width: 75%;">

@@ -46,7 +46,7 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 ## Working papers 
 
 <span style="color: Black; font-size: 14px;">
-    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>)
+    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>) (<i>Under Review</i>)
     <br>
     <button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Paper](https://mustafakaba.github.io/files/JMP_draft.pdf){: .btn--research}{:target="_blank"}
   </span>
@@ -67,7 +67,7 @@ This paper investigates the impact of authoritarian takeovers on the rule of law
 </p>
 
 <span style="color: Black; font-size: 14px;">
-  <b>Mixed regimes and economic crises: information manipulation strategies in media outlets</b>
+  <b>Mixed regimes and economic crises: information manipulation strategies in media outlets</b> (<i>Under Review</i>)
     <br>
     <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>

@@ -93,10 +93,10 @@ In premodern Western Europe, private philanthropy, including charity, never exce
 <span style="color: Black; font-size: 14px;">
     <b> Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence </b>  (with <a href="https://jrspringman.github.io">Jeremy Springman</a>, <a href="https://mateovillamizarchaparro.github.io">Mateo Villamizar Chaparro</a>, <a href="https://pdri-devlab.upenn.edu/bio/zung-ru-lin/">Zung-Ru Lin</a>, <a href="https://pdri-devlab.upenn.edu/bio/donald-moratz/">Donald Moratz</a>, <a href="https://diego-romero.com">Diego Romero</a>, and <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>) (<i>Under Review</i>)
     <br>
-    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://jrspringman.github.io/files/rai_full_paper.pdf){: .btn--research}{:target="_blank"}
+    <button onclick="myFunction('abstract10')" class="btn--research">Abstract</button> [Paper](https://jrspringman.github.io/files/rai_full_paper.pdf){: .btn--research}{:target="_blank"}
   </span>
 
-<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+<p id = 'abstract10' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
 Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.
 </p>
 

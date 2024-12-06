@@ -46,6 +46,28 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 ## Working papers 
 
 <span style="color: Black; font-size: 14px;">
+  <b>Propaganda during economic crises: reference point adjustment in economic news</b> (<i>Revise and Resubmit</i>)
+    <br>
+    <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
+  </span>
+
+<p id = 'abstract6' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+In the era of democratic backsliding, information management & manipulation have become a central feature of electoral autocracies. Despite many electoral autocracies experiencing deep economic crises, the incumbents were able to hold onto power. This resiliency is puzzling due to the widespread notion of economic crises leading to regime collapse. In this paper, I introduce an understudied information management strategy, which I call reference point adjustment, employed by pro-government media during economic crises. I argue that government-controlled media increases negative reports about foreign economies during domestic economic turmoil to make the local situation seem comparatively better. Leveraging unique media data from Turkey—spanning 700,000 articles and 13.3 million unique sentences from two major newspapers and an online outlet over 2.5 years— and using supervised machine learning, I find a sharp rise (48% increase) in coverage of foreign economy news by pro-government outlets during an economic crisis. I also observe a significant increase in negative foreign economy news exposure (83% increase) within pro-government media compared to opposition counterparts during these times. This research aims to deepen our understanding of authoritarian politics and media behavior and sheds further light on the democratically backsliding regimes' playbook. 
+</p>
+
+<span style="color: Black; font-size: 14px;">
+ <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b> (<i>Revise and Resubmit</i>)
+    <br>
+    <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) 
+  </span>
+
+<p id = 'abstract7' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+Recently, the world saw a wave of elected leaders attack democracy. Why do people support leaders who remove checks and balances? I argue that aspiring autocrats gain more popular support when they present these institutions as obstacles to getting things done. In doing so, they exploit a critical tension between the possibility of gridlock and the abuse of power, which is inherent in democratic institutions. Using cross-national data and leveraging an original survey experiment from Turkey, I show that effective checks and balances decrease democracy satisfaction and that aspiring autocrats gain more popular support when they present these institutions as obstacles. More interestingly, respondents perceive the aspiring autocrats' gridlock justification to dismantle checks and balances as a pro-democratic attempt to remove the obstacles to a policy-responsive regime. These results show that aspiring autocrats exploit a tension in democracies that makes it harder for citizens to perceive the threat they face.
+</p>
+
+
+
+<span style="color: Black; font-size: 14px;">
     <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>) (<i>Under Review</i>)
     <br>
     <button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Paper](https://mustafakaba.github.io/files/JMP_draft.pdf){: .btn--research}{:target="_blank"}
@@ -54,6 +76,30 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 <p id = 'abstract4' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
 This paper investigates the impact of authoritarian takeovers on the rule of law and economic efficiency in local jurisdictions. Authoritarian takeovers refer to the replacement of elected officials with centrally appointed representatives. Using the universe of state contracts in Turkey and a staggered Difference-in-Differences (DiD) design, we document that central takeovers deteriorate the rule of law and cause substantial waste of taxpayers’ money by reducing economic efficiency in public procurement. Specifically, centrally appointed mayors use competitive auctions 33 pp less and instead exploit legal provisions 23 pp more often than elected mayors. Such malpractices inflate contract prices by 24% and reduce value for money by 40%. These results are robust to a variety of tests, including a Regression Discontinuity (RD) estimation. Probing the underlying mechanisms, we find that the removal of local accountability is the key driver of these effects. By contrast, we do not find evidence favoring the coordination benefits from a more centralized governance or politician discretion leading to quality improvement in procurement. We conclude, by altering incentive structures and introducing a moral hazard problem in local governance, central takeovers are likely to cause important loss of social welfare.
 </p>
+
+
+<span style="color: Black; font-size: 14px;">
+    <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>) (<i>Under Review</i>)
+    <br>
+    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
+  </span>
+
+<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+In premodern Western Europe, private philanthropy, including charity, never exceeded one percent of private wealth. In principle, this share could have been greater in other regions, for instance, in the Middle East, where Islamic institutions regulated economic life. In the premodern Middle East, privately endowed trusts known as waqfs used their income partly to finance social services. Because they came to control massive resources, waqfs might have intermediated substantial redistribution. Using an original data set of Istanbul waqf deeds from 1453 to 1923, this paper shows that "regular waqfs"—waqfs ordinarily founded by people outside the sultan's close circle—served mainly to shelter wealth and to finance prayers for the salvation of founders and their kin. Supplying temporal social services was among their minor functions; and seldom did these services target the poor. Records of waqf functions and expenditures indicate that they could not have alleviated poverty appreciably. In providing material security to prosperous families, regular waqfs perpetuated material inequalities. Among the services that they funded commonly were prayers for expiating the sins of waqf founders and their families. Hence, the intended effects of regular waqfs included the extension of temporal inequalities into the afterworld.
+</p>
+
+
+
+<span style="color: Black; font-size: 14px;">
+    <b> Foreign Influence by Authoritarian Governments: Introducing New Data and Evidence </b>  (with <a href="https://jrspringman.github.io">Jeremy Springman</a>, <a href="https://mateovillamizarchaparro.github.io">Mateo Villamizar Chaparro</a>, <a href="https://pdri-devlab.upenn.edu/bio/zung-ru-lin/">Zung-Ru Lin</a>, <a href="https://pdri-devlab.upenn.edu/bio/donald-moratz/">Donald Moratz</a>, <a href="https://diego-romero.com">Diego Romero</a>, and <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>) (<i>Under Review</i>)
+    <br>
+    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://jrspringman.github.io/files/rai_full_paper.pdf){: .btn--research}{:target="_blank"}
+  </span>
+
+<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+Policymakers are increasingly concerned about the revival of superpower conflict. Increased competition among great powers has been especially evident in the exercise of foreign influence, where Russia and China have increased their efforts to influence less powerful nations. To date, the absence of quantitative data has limited systematic investigation of this resurgence of authoritarian influence activity. We introduce a new, country-month dataset tracking reports of influence by Russia and China in 62 aid-receiving countries from 2012 through 2024. We construct the data by applying large langauage models (LLMs) to an original corpus of more than 100 million news articles sourced from high-quality, domestic news sources and use it to describe trends in influence activity over time and across countries. Finally, we exploit the unique features of the data to test hypotheses about Russian influence activity in the months before the invasion of Ukraine. We document a dramatic increase in the use of diplomacy, economic power, and hard power before the invasion. In doing so, we show that this data is useful for both theory testing and foreign policy decision-making.
+</p>
+
 
 
 <span style="color: Black; font-size: 14px;">
@@ -66,26 +112,7 @@ This paper investigates the impact of authoritarian takeovers on the rule of law
   A free press is a pillar of democracy, but in our era of democratic backsliding, many aspiring autocrats have undermined media freedom. Extant research has focused on censorship laws and state advertising as tools to capture the media. I argue state contracts in non-media sectors represent an important tool for influencing media coverage. Conglomerates with diverse economic interests increasingly own media outlets. State contracts provide aspiring autocrats with a valuable carrot to incentivize conglomerate-owned media for pro-government coverage. I test this argument by analyzing a vast corpus of newspaper articles from Turkey and exploiting a legal change, which increased the government's discretion over distributing state contracts. Constructing a context-aware bias measure using machine learning and analyzing the universe of all state contracts, I show that conglomerate-owned newspapers are more pro-government than other newspapers. This bias grows with the government's discretion. In return, these conglomerates secure state contracts on favorable terms.
 </p>
 
-<span style="color: Black; font-size: 14px;">
-  <b>Mixed regimes and economic crises: information manipulation strategies in media outlets</b> (<i>Under Review</i>)
-    <br>
-    <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
-  </span>
 
-<p id = 'abstract6' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-In recent decades, information manipulation in media has been the defining characteristic in the global wave of democratic backsliding. Information manipulation in the domestic economy is especially critical for regime stability since economic crises may cause regimes to collapse. However, autocrats of our era seem resilient even in times of crisis. How do they manipulate economic news in times of economic crisis? Using the recent currency crisis from Turkey and analyzing the entire corpora of three media outlets, this paper analyzes the prevalence of different information manipulation strategies. The results show that while pro-government outlets are more likely to selectively attribute positive economic news to government actors and negative news to external actors, they are not more likely to use this strategy as the crisis intensifies. Instead, pro-government outlets manipulate citizens’ reference points about foreign economies by portraying them negatively. They also shift the attention away from the currency news in favor of other topics within the economy. These results shed light on specific strategies autocrats use for information manipulation.
-</p>
-
-
-<span style="color: Black; font-size: 14px;">
- <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b>
-    <br>
-    <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) 
-  </span>
-
-<p id = 'abstract7' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-Recently, the world saw a wave of elected leaders attack democracy. Why do people support leaders who remove checks and balances? I argue that aspiring autocrats gain more popular support when they present these institutions as obstacles to getting things done. In doing so, they exploit a critical tension between the possibility of gridlock and the abuse of power, which is inherent in democratic institutions. Using cross-national data and leveraging an original survey experiment from Turkey, I show that effective checks and balances decrease democracy satisfaction and that aspiring autocrats gain more popular support when they present these institutions as obstacles. More interestingly, respondents perceive the aspiring autocrats' gridlock justification to dismantle checks and balances as a pro-democratic attempt to remove the obstacles to a policy-responsive regime. These results show that aspiring autocrats exploit a tension in democracies that makes it harder for citizens to perceive the threat they face.
-</p>
 
 
 <span style="color: Black; font-size: 14px;">
@@ -96,17 +123,6 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 
 <p id = 'abstract8' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
 One crucial feature of the ongoing global wave of democratic backsliding is that aspiring autocrats seek to influence the media, oftentimes through legal restrictions on the press and social media. Yet little research has examined how formal and social media respond to those legal restrictions targeting the free flow of information. We develop an original argument linking key characteristics of media sources to the regulatory environment and examine how the content and sentiment of their coverage responds to restrictive media laws. We test our claims using an enormous corpus of electronic media in Tanzania and employ two state-of- the-art neural network models to classify the topics and sentiment of news stories. We then estimate diff-in-diff models exploiting a significant legal change that targeted media houses. We find that critical news sources censor the tone of their coverage, even as they continue to cover the same issues; we also find that international news sources are unable to fill the hole left by a critical domestic press. The paper sheds light on the conditions under which the press can be resilient in the face of legal threats.
-</p>
-
-
-<span style="color: Black; font-size: 14px;">
-    <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>) (<i>Under Review</i>)
-    <br>
-    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
-  </span>
-
-<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-In premodern Western Europe, private philanthropy, including charity, never exceeded one percent of private wealth. In principle, this share could have been greater in other regions, for instance, in the Middle East, where Islamic institutions regulated economic life. In the premodern Middle East, privately endowed trusts known as waqfs used their income partly to finance social services. Because they came to control massive resources, waqfs might have intermediated substantial redistribution. Using an original data set of Istanbul waqf deeds from 1453 to 1923, this paper shows that "regular waqfs"—waqfs ordinarily founded by people outside the sultan's close circle—served mainly to shelter wealth and to finance prayers for the salvation of founders and their kin. Supplying temporal social services was among their minor functions; and seldom did these services target the poor. Records of waqf functions and expenditures indicate that they could not have alleviated poverty appreciably. In providing material security to prosperous families, regular waqfs perpetuated material inequalities. Among the services that they funded commonly were prayers for expiating the sins of waqf founders and their families. Hence, the intended effects of regular waqfs included the extension of temporal inequalities into the afterworld.
 </p>
 
 

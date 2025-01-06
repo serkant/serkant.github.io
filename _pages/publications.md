@@ -46,7 +46,7 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 ## Working papers 
 
 <span style="color: Black; font-size: 14px;">
-  <b>Propaganda during economic crises: reference point adjustment in economic news</b> (<i>Revise and Resubmit</i>)
+  <b>Propaganda during economic crises: reference point adjustment in economic news</b> (<i>Revise & Resubmit</i>)
     <br>
     <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
   </span>
@@ -56,7 +56,7 @@ In the era of democratic backsliding, information management & manipulation have
 </p>
 
 <span style="color: Black; font-size: 14px;">
- <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b> (<i>Revise and Resubmit</i>)
+ <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b> (<i>Revise & Resubmit</i>)
     <br>
     <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) 
   </span>
@@ -68,6 +68,19 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 
 
 <span style="color: Black; font-size: 14px;">
+    <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>) (<i>Revise & Resubmit</i>)
+    <br>
+    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
+  </span>
+
+<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+In premodern Western Europe, private philanthropy, including charity, never exceeded one percent of private wealth. In principle, this share could have been greater in other regions, for instance, in the Middle East, where Islamic institutions regulated economic life. In the premodern Middle East, privately endowed trusts known as waqfs used their income partly to finance social services. Because they came to control massive resources, waqfs might have intermediated substantial redistribution. Using an original data set of Istanbul waqf deeds from 1453 to 1923, this paper shows that "regular waqfs"—waqfs ordinarily founded by people outside the sultan's close circle—served mainly to shelter wealth and to finance prayers for the salvation of founders and their kin. Supplying temporal social services was among their minor functions; and seldom did these services target the poor. Records of waqf functions and expenditures indicate that they could not have alleviated poverty appreciably. In providing material security to prosperous families, regular waqfs perpetuated material inequalities. Among the services that they funded commonly were prayers for expiating the sins of waqf founders and their families. Hence, the intended effects of regular waqfs included the extension of temporal inequalities into the afterworld.
+</p>
+
+
+
+
+<span style="color: Black; font-size: 14px;">
     <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>) (<i>Under Review</i>)
     <br>
     <button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Paper](https://mustafakaba.github.io/files/JMP_draft.pdf){: .btn--research}{:target="_blank"}
@@ -75,17 +88,6 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 
 <p id = 'abstract4' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
 This paper investigates the impact of authoritarian takeovers on the rule of law and economic efficiency in local jurisdictions. Authoritarian takeovers refer to the replacement of elected officials with centrally appointed representatives. Using the universe of state contracts in Turkey and a staggered Difference-in-Differences (DiD) design, we document that central takeovers deteriorate the rule of law and cause substantial waste of taxpayers’ money by reducing economic efficiency in public procurement. Specifically, centrally appointed mayors use competitive auctions 33 pp less and instead exploit legal provisions 23 pp more often than elected mayors. Such malpractices inflate contract prices by 24% and reduce value for money by 40%. These results are robust to a variety of tests, including a Regression Discontinuity (RD) estimation. Probing the underlying mechanisms, we find that the removal of local accountability is the key driver of these effects. By contrast, we do not find evidence favoring the coordination benefits from a more centralized governance or politician discretion leading to quality improvement in procurement. We conclude, by altering incentive structures and introducing a moral hazard problem in local governance, central takeovers are likely to cause important loss of social welfare.
-</p>
-
-
-<span style="color: Black; font-size: 14px;">
-    <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>) (<i>Under Review</i>)
-    <br>
-    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
-  </span>
-
-<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-In premodern Western Europe, private philanthropy, including charity, never exceeded one percent of private wealth. In principle, this share could have been greater in other regions, for instance, in the Middle East, where Islamic institutions regulated economic life. In the premodern Middle East, privately endowed trusts known as waqfs used their income partly to finance social services. Because they came to control massive resources, waqfs might have intermediated substantial redistribution. Using an original data set of Istanbul waqf deeds from 1453 to 1923, this paper shows that "regular waqfs"—waqfs ordinarily founded by people outside the sultan's close circle—served mainly to shelter wealth and to finance prayers for the salvation of founders and their kin. Supplying temporal social services was among their minor functions; and seldom did these services target the poor. Records of waqf functions and expenditures indicate that they could not have alleviated poverty appreciably. In providing material security to prosperous families, regular waqfs perpetuated material inequalities. Among the services that they funded commonly were prayers for expiating the sins of waqf founders and their families. Hence, the intended effects of regular waqfs included the extension of temporal inequalities into the afterworld.
 </p>
 
 

@@ -9,6 +9,17 @@ author_profile: true
 ## Publications 
 
 
+<span style="color: Black; font-size: 14px;">
+    <b> Checks and Balances and Institutional Gridlock: Implications for Authoritarianism </b>
+    <br> 
+    <i>Governance</i>, Volume 38, Issue 2
+    <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> [Paper](https://onlinelibrary.wiley.com/doi/10.1111/gove.70017){: .btn--research}{:target="_blank"}
+</span>
+<p id = 'abstract7' style="display: none; font-size: 14px; text-align: justify; width: 75%">
+Recently, the world saw a wave of elected leaders attack democracy. Why do people support leaders who remove checks and balances? I argue that aspiring autocrats gain more popular support when they present these institutions as obstacles to getting things done. In doing so, they exploit a critical tension between the possibility of gridlock and the abuse of power, which is inherent in democratic institutions. Using cross-national data and leveraging an original survey experiment from Turkey, I show that effective checks and balances decrease democracy satisfaction and that aspiring autocrats gain more popular support when they present these institutions as obstacles. More interestingly, respondents perceive the aspiring autocrats' gridlock justification to dismantle checks and balances as a pro-democratic attempt to remove the obstacles to a policy-responsive regime. These results show that aspiring autocrats exploit the tension in democracies, making it harder for citizens to perceive the threat they face.
+</p>
+
+
 
 <span style="color: Black; font-size: 14px;">
     <b> Correlates of deforestation in Turkey: evidence from high-resolution satellite data </b>
@@ -53,16 +64,6 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 
 <p id = 'abstract6' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
 In the era of democratic backsliding, information management & manipulation have become a central feature of electoral autocracies. Despite many electoral autocracies experiencing deep economic crises, the incumbents were able to hold onto power. This resiliency is puzzling due to the widespread notion of economic crises leading to regime collapse. In this paper, I introduce an understudied information management strategy, which I call reference point adjustment, employed by pro-government media during economic crises. I argue that government-controlled media increases negative reports about foreign economies during domestic economic turmoil to make the local situation seem comparatively better. Leveraging unique media data from Turkey—spanning 700,000 articles and 13.3 million unique sentences from two major newspapers and an online outlet over 2.5 years— and using supervised machine learning, I find a sharp rise (48% increase) in coverage of foreign economy news by pro-government outlets during an economic crisis. I also observe a significant increase in negative foreign economy news exposure (83% increase) within pro-government media compared to opposition counterparts during these times. This research aims to deepen our understanding of authoritarian politics and media behavior and sheds further light on the democratically backsliding regimes' playbook. 
-</p>
-
-<span style="color: Black; font-size: 14px;">
- <b>Institutional Gridlock and Democratic Backsliding: explaining popular support for aspiring autocrats</b> (<i>Revise & Resubmit</i>)
-    <br>
-    <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu) 
-  </span>
-
-<p id = 'abstract7' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-Recently, the world saw a wave of elected leaders attack democracy. Why do people support leaders who remove checks and balances? I argue that aspiring autocrats gain more popular support when they present these institutions as obstacles to getting things done. In doing so, they exploit a critical tension between the possibility of gridlock and the abuse of power, which is inherent in democratic institutions. Using cross-national data and leveraging an original survey experiment from Turkey, I show that effective checks and balances decrease democracy satisfaction and that aspiring autocrats gain more popular support when they present these institutions as obstacles. More interestingly, respondents perceive the aspiring autocrats' gridlock justification to dismantle checks and balances as a pro-democratic attempt to remove the obstacles to a policy-responsive regime. These results show that aspiring autocrats exploit a tension in democracies that makes it harder for citizens to perceive the threat they face.
 </p>
 
 

@@ -12,7 +12,7 @@ author_profile: true
 <span style="color: Black; font-size: 14px;">
     <b> Checks and Balances and Institutional Gridlock: Implications for Authoritarianism </b>
     <br> 
-    <i>Governance</i>, Volume 38, Issue 2
+    <i>Governance (2025)</i>, Volume 38, Issue 2
     <button onclick="myFunction('abstract7')" class="btn--research">Abstract</button> [Paper](https://onlinelibrary.wiley.com/doi/10.1111/gove.70017){: .btn--research}{:target="_blank"}
 </span>
 <p id = 'abstract7' style="display: none; font-size: 14px; text-align: justify; width: 75%">
@@ -24,7 +24,7 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 <span style="color: Black; font-size: 14px;">
     <b> Correlates of deforestation in Turkey: evidence from high-resolution satellite data </b>
     <br> 
-    <i>New Perspectives on Turkey</i>, Volume 68, May 2023, pp. 30 - 48
+    <i>New Perspectives on Turkey (2023) </i>, Volume 68, May 2023, pp. 30 - 48
     <button onclick="myFunction('abstract1')" class="btn--research">Abstract</button> [Paper](https://www.cambridge.org/core/journals/new-perspectives-on-turkey/article/correlates-of-deforestation-in-turkey-evidence-from-highresolution-satellite-data/F6DF2EBAFC43D619E99B7E79BF82475C){: .btn--research}{:target="_blank"}
 </span>
 <p id = 'abstract1' style="display: none; font-size: 14px; text-align: justify; width: 75%">
@@ -35,7 +35,7 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 <span style="color: Black; font-size: 14px;">
     <b> Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
-    <i>Journal of Politics</i>, 85 (2), 667-683 
+    <i>Journal of Politics (2023)</i>, 85 (2), 667-683 
     <button onclick="myFunction('abstract2')" class="btn--research">Abstract</button> [Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/722040?journalCode=jop){: .btn--research}{:target="_blank"}
   </span>
 <p id = 'abstract2' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
@@ -46,7 +46,7 @@ Do voters reward incumbents for the provision of public services? In this articl
 <span style="color: Black; font-size: 14px;">
     <b>Truth or Dare? Detecting Systematic Manipulation of COVID-19 Statistics </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
-    <i>Journal of Political Institutions and Political Economy</i>, Vol. 1: No. 4, pp 543-557 
+    <i>Journal of Political Institutions and Political Economy (2020) </i>, Vol. 1: No. 4, pp 543-557 
     <button onclick="myFunction('abstract3')" class="btn--research">Abstract</button> [Paper](https://www.nowpublishers.com/article/Details/PIP-0021){: .btn--research}{:target="_blank"}
   </span>
 <p id = 'abstract3' style="display: none; font-size: 14px; text-align: justify; width: 75%;">

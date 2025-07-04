@@ -8,6 +8,16 @@ author_profile: true
 
 ## Publications 
 
+<span style="color: Black; font-size: 14px;">
+  <b>Propaganda during economic crises: reference point adjustment in economic news</b> (<i>Political Communication (2025) </i>)
+    <br>
+ <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> [Paper](https://doi.org/10.1080/10584609.2025.2526387){: .btn--research}{:target="_blank"}
+  </span>
+
+<p id = 'abstract6' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+In the era of democratic backsliding, information management & manipulation have become a central feature of electoral autocracies. Despite many electoral autocracies experiencing deep economic crises, the incumbents were able to hold onto power. This resiliency is puzzling due to the widespread notion of economic crises leading to regime collapse. In this paper, I introduce an understudied information management strategy, which I call reference point adjustment, employed by pro-government media during economic crises. I argue that government-controlled media increases negative reports about foreign economies during domestic economic turmoil to make the local situation seem comparatively better. Leveraging unique media data from Turkey—spanning 700,000 articles and 13.3 million unique sentences from two major newspapers and an online outlet over 2.5 years— and using supervised machine learning, I find a sharp rise (48% increase) in coverage of foreign economy news by pro-government outlets during an economic crisis. I also observe a significant increase in negative foreign economy news exposure (83% increase) within pro-government media compared to opposition counterparts during these times. This research aims to deepen our understanding of authoritarian politics and media behavior and sheds further light on the democratically backsliding regimes' playbook. 
+</p>
+
 
 <span style="color: Black; font-size: 14px;">
     <b> Checks and Balances and Institutional Gridlock: Implications for Authoritarianism </b>
@@ -55,17 +65,6 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 
 
 ## Working papers 
-
-<span style="color: Black; font-size: 14px;">
-  <b>Propaganda during economic crises: reference point adjustment in economic news</b> (<i>Revise & Resubmit</i>)
-    <br>
-    <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> Feel free to email me for the most recent draft (serkant.adiguzel@sabanciuniv.edu)
-  </span>
-
-<p id = 'abstract6' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-In the era of democratic backsliding, information management & manipulation have become a central feature of electoral autocracies. Despite many electoral autocracies experiencing deep economic crises, the incumbents were able to hold onto power. This resiliency is puzzling due to the widespread notion of economic crises leading to regime collapse. In this paper, I introduce an understudied information management strategy, which I call reference point adjustment, employed by pro-government media during economic crises. I argue that government-controlled media increases negative reports about foreign economies during domestic economic turmoil to make the local situation seem comparatively better. Leveraging unique media data from Turkey—spanning 700,000 articles and 13.3 million unique sentences from two major newspapers and an online outlet over 2.5 years— and using supervised machine learning, I find a sharp rise (48% increase) in coverage of foreign economy news by pro-government outlets during an economic crisis. I also observe a significant increase in negative foreign economy news exposure (83% increase) within pro-government media compared to opposition counterparts during these times. This research aims to deepen our understanding of authoritarian politics and media behavior and sheds further light on the democratically backsliding regimes' playbook. 
-</p>
-
 
 
 <span style="color: Black; font-size: 14px;">

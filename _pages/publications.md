@@ -9,8 +9,9 @@ author_profile: true
 ## Publications 
 
 <span style="color: Black; font-size: 14px;">
-  <b>Propaganda during economic crises: reference point adjustment in economic news</b> (<i>Political Communication (2025) </i>)
+  <b>Propaganda during economic crises: reference point adjustment in economic news</b> 
     <br>
+    <i>Political Communication (2025) </i>, Published Online
  <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> [Paper](https://doi.org/10.1080/10584609.2025.2526387){: .btn--research}{:target="_blank"}
   </span>
 

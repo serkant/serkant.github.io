@@ -104,6 +104,16 @@ Policymakers are increasingly concerned about the revival of superpower conflict
 </p>
 
 
+<span style="color: Black; font-size: 14px;">
+    <b> Tracking Civic Space in Developing Countries with a High-Quality Corpus of Domestic Media and Transformer Models </b>  (with <a href="https://jrspringman.github.io">Jeremy Springman</a>, <a href="https://mateovillamizarchaparro.github.io">Mateo Villamizar Chaparro</a>, <a href="https://pdri-devlab.upenn.edu/bio/zung-ru-lin/">Zung-Ru Lin</a>, <a href="https://pdri-devlab.upenn.edu/bio/donald-moratz/">Donald Moratz</a>, <a href="https://diego-romero.com">Diego Romero</a>, <a href="https://politicalscience.stanford.edu/people/mahda-soltani">Mahda Soltani</a>, <a href="https://pdri-devlab.upenn.edu/bio/hanling/">Hanling Su</a>, <a href="https://sites.google.com/view/jitender-swami/">Jitender Swami</a>, and <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>) (<i>Under Review</i>)
+    <br>
+    <button onclick="myFunction('abstract12')" class="btn--research">Abstract</button> [Paper](https://osf.io/preprints/socarxiv/zp3sr_v2){: .btn--research}{:target="_blank"}
+  </span>
+
+<p id = 'abstract12' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+Civic space - the fundamental freedoms necessary for citizens to influence politics - is under constant contestation. Despite the importance of day-to-day contestation over these rights, there is very little data allowing us to study the events and processes that constitute this struggle. We introduce new data that captures civic space activity across 65 developing countries from 2012 to 2024. Using an original corpus of over 120 million articles from nearly 350 high-quality domestic media outlets and 30 international and regional outlets, we use human-supervised web scraping and open-source computational tools to track monthly variation in media attention across 20 civic space events. Our approach yields three achievements: first, our corpus provides unprecedented coverage of reporting by developing country media outlets, addressing biases in other media event data; second, the resulting monthly event data set covers a wide range of new civic space activities; and third, we demonstrate the utility of this data for identifying and forecasting major political events and discuss applications for research on regime dynamics during a time of democratic backsliding.</p>
+
+
 
 <span style="color: Black; font-size: 14px;">
     <b>Favor exchanges and pro-government media bias </b>
@@ -119,7 +129,7 @@ Policymakers are increasingly concerned about the revival of superpower conflict
 
 
 <span style="color: Black; font-size: 14px;">
-    <b>Democratic Backsliding and Media Responses to Government Repression of Journalism: Machine Learning Evidence from Tanzania</b> (with <a href="https://diego-romero.com">Diego Romero</a> and <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>)
+    <b>Democratic Backsliding and Media Responses to Government Repression of Journalism: Machine Learning Evidence from Tanzania</b> (with <a href="https://diego-romero.com">Diego Romero</a> and <a href="https://web.sas.upenn.edu/ewibbels/">Erik Wibbels</a>) (<i>Under Review</i>)
     <br>
     <button onclick="myFunction('abstract8')" class="btn--research">Abstract</button> [Paper](https://bpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/872/files/2022/07/Tanzania_ML4P.pdf){: .btn--research}{:target="_blank"}
   </span>

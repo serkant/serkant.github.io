@@ -11,7 +11,7 @@ author_profile: true
 <span style="color: Black; font-size: 14px;">
   <b>Propaganda during economic crises: reference point adjustment in economic news</b> 
     <br>
-    <i>Political Communication (2025)</i>, Published Online
+    <i>Political Communication (2026)</i>, 43(1), pp 149–173.
  <button onclick="myFunction('abstract6')" class="btn--research">Abstract</button> [Paper](https://doi.org/10.1080/10584609.2025.2526387){: .btn--research}{:target="_blank"}
   </span>
 
@@ -35,7 +35,7 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 <span style="color: Black; font-size: 14px;">
     <b> Correlates of deforestation in Turkey: evidence from high-resolution satellite data </b>
     <br> 
-    <i>New Perspectives on Turkey (2023) </i>, Volume 68, May 2023, pp. 30 - 48
+    <i>New Perspectives on Turkey (2023) </i>, Volume 68, May 2023, pp 30 - 48
     <button onclick="myFunction('abstract1')" class="btn--research">Abstract</button> [Paper](https://www.cambridge.org/core/journals/new-perspectives-on-turkey/article/correlates-of-deforestation-in-turkey-evidence-from-highresolution-satellite-data/F6DF2EBAFC43D619E99B7E79BF82475C){: .btn--research}{:target="_blank"}
 </span>
 <p id = 'abstract1' style="display: none; font-size: 14px; text-align: justify; width: 75%">
@@ -46,7 +46,7 @@ Recently, the world saw a wave of elected leaders attack democracy. Why do peopl
 <span style="color: Black; font-size: 14px;">
     <b> Out of Sight, Out of Mind? Electoral Responses to the Proximity of Health Care </b> (with <a href="https://www.aslicansunar.com">Aslı Cansunar</a> and <a href="https://www.gozdecorekcioglu.com">Gözde Çörekçioğlu</a>)
     <br>
-    <i>Journal of Politics (2023)</i>, 85 (2), 667-683 
+    <i>Journal of Politics (2023)</i>, 85 (2), pp 667-683 
     <button onclick="myFunction('abstract2')" class="btn--research">Abstract</button> [Paper](https://www.journals.uchicago.edu/doi/abs/10.1086/722040?journalCode=jop){: .btn--research}{:target="_blank"}
   </span>
 <p id = 'abstract2' style="display: none; font-size: 14px; text-align: justify; width: 75%;">

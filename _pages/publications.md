@@ -12,7 +12,6 @@ author_profile: true
     <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>)
     <br> 
     <i>Journal of Economic History</i>, Accepted for publication.
-    <br>
     <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
   </span>
 

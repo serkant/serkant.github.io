@@ -9,6 +9,19 @@ author_profile: true
 ## Publications 
 
 <span style="color: Black; font-size: 14px;">
+    <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>)
+    <br> 
+    <i>Journal of Economic History</i>, Accepted for publication.
+    <br>
+    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
+  </span>
+
+<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
+In the premodern Middle East, where Islamic institutions regulated economic life, trusts known as waqfs used part of their income to finance social services. Using an original dataset of Istanbul waqf deeds from 1453 to 1923, this article shows that the main functions of “private waqfs”—waqfs founded mostly by people outside the sultan’s close circle—were to support founders and their kin materially in life and spiritually in the afterlife through perpetual prayers. They supplied temporal social services only as minor functions, seldom targeting the poor. As in premodern Western Europe, private philanthropy contributed minimally to poverty alleviation.
+ </p>
+
+
+<span style="color: Black; font-size: 14px;">
   <b>Propaganda during economic crises: reference point adjustment in economic news</b> 
     <br>
     <i>Political Communication (2026)</i>, 43(1), pp 149–173.
@@ -69,20 +82,7 @@ Which countries manipulate COVID-19 statistics? Does the party ideology of local
 
 
 <span style="color: Black; font-size: 14px;">
-    <b> Keeping while Giving: The Perpetuation of Inequalities through the Islamic Waqf </b>  (with <a href="https://sites.duke.edu/timurkuran/">Timur Kuran</a>) (<i>Revise & Resubmit</i>)
-    <br>
-    <button onclick="myFunction('abstract9')" class="btn--research">Abstract</button> [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836060){: .btn--research}{:target="_blank"}
-  </span>
-
-<p id = 'abstract9' style="display: none; font-size: 14px; text-align: justify; width: 75%;">
-In premodern Western Europe, private philanthropy, including charity, never exceeded one percent of private wealth. In principle, this share could have been greater in other regions, for instance, in the Middle East, where Islamic institutions regulated economic life. In the premodern Middle East, privately endowed trusts known as waqfs used their income partly to finance social services. Because they came to control massive resources, waqfs might have intermediated substantial redistribution. Using an original data set of Istanbul waqf deeds from 1453 to 1923, this paper shows that "regular waqfs"—waqfs ordinarily founded by people outside the sultan's close circle—served mainly to shelter wealth and to finance prayers for the salvation of founders and their kin. Supplying temporal social services was among their minor functions; and seldom did these services target the poor. Records of waqf functions and expenditures indicate that they could not have alleviated poverty appreciably. In providing material security to prosperous families, regular waqfs perpetuated material inequalities. Among the services that they funded commonly were prayers for expiating the sins of waqf founders and their families. Hence, the intended effects of regular waqfs included the extension of temporal inequalities into the afterworld.
-</p>
-
-
-
-
-<span style="color: Black; font-size: 14px;">
-    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>) (<i>Under Review</i>)
+    <b>From Elected to Appointed: The Economic Consequences of Local Authoritarian Takeovers </b>  (with <a href="https://mustafakaba.github.io/">Mustafa Kaba</a> and <a href="https://academics.boun.edu.tr/mkoyuncu/">Murat Koyuncu</a>) (<i>Revise & Resubmit</i>)
     <br>
     <button onclick="myFunction('abstract4')" class="btn--research">Abstract</button> [Paper](https://mustafakaba.github.io/files/JMP_draft.pdf){: .btn--research}{:target="_blank"}
   </span>

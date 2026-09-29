@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Fatih Serkant Adiguzel"
 title_separator          : "-"
 name                     : &name "Fatih Serkant Adiguzel"
-description              : &description "personal description"
-url                      : "https://serkantadiguzel.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Fatih Serkant Adiguzel is an assistant professor of political science at Sabancı University working on political economy, democratic backsliding, digital media, and public services."
+url                      : "https://serkantadiguzel.com" # no trailing slash, or generated URLs get a double slash
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serkant/serkant.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -146,6 +146,41 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # AcademicPages template samples and tooling, kept in the repo but not published
+  - CONTRIBUTING.md
+  - _posts
+  - _drafts
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
+  - _pages/tag-archive.html
+  - _pages/year-archive.html
+  - _pages/collection-archive.html
+  - _pages/page-archive.html
+  - _pages/portfolio.html
+  - _pages/talks.html
+  - _pages/talkmap.html
+  - _pages/teaching.html # duplicate of _teaching/graduate_teaching.md, which owns /teaching/
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - markdown_generator
+  - images/3953273590_704e3899d5_m.jpg
+  - images/500x300.png
+  - images/bio-photo.jpg
+  - images/bio-photo-2.jpg
+  - images/editing-talk.png
+  - images/foo-bar-identity.jpg
+  - images/foo-bar-identity-th.jpg
+  - images/image-alignment-*.jpg
+  - images/paragraph-indent.png
+  - images/paragraph-no-indent.png
+  - images/site-logo.png
+  - images/mstile-*.png
+  - images/safari-pinned-tab.svg
+  - images/browserconfig.xml
+  - images/manifest.json
 keep_files:
   - .git
   - .svn
@@ -181,11 +216,11 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
+  portfolio: # template samples only
+    output: false
     permalink: /:collection/:path/
-  talks:
-    output: true
+  talks: # template samples only
+    output: false
     permalink: /:collection/:path/
 
 
@@ -263,7 +298,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:

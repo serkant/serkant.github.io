@@ -1,5 +1,5 @@
 ---
-title: 'The Islamic Waqf: Instrument of Unequal Security, Worldly and Otherworldly'
+title: 'Keeping while Giving: The Perpetuation of Inequalities through Private Islamic Waqfs'
 collection: research
 permalink: /research/waqf
 excerpt: "(with [Timur Kuran](https://sites.duke.edu/timurkuran/)), *Working Paper*
